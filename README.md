@@ -1,3 +1,1 @@
-Jogo do número secreto
-Projeto utilizado nos cursos de lógica de programação da Alura.
-As tecnologias utilizadas no projeto são : HTML, CSS e JavaScript.
+Jogo do número secreto, um projeto utilizado nos cursos de lógica de programação da Alura, as tecnologias utilizadas no projeto são : HTML, CSS e JavaScript.
